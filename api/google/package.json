@@ -1,0 +1,9 @@
+{
+    "code":0,
+    "data":{
+        "type":2,
+        "schema":"com.multiplebox.droidapps",
+        "minVerCode":12,
+        "content":"Please update to the latest version."
+    }
+}
