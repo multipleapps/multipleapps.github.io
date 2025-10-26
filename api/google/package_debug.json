@@ -3,7 +3,7 @@
     "data":{
         "type":2,
         "schema":"com.multiplebox.droidapps",
-        "minVerCode":12,
+        "minVerCode":11,
         "content":"Please update to the latest version."
     }
 }
