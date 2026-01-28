@@ -1,7 +1,7 @@
 {
     "code":0,
     "data":{
-        "type":2,
+        "type":1,
         "schema":"com.multiaccounts.cloneapps",
         "minVerCode":10016,
         "content":"Due to policy reasons, Multiple Apps has been removed from Google Play, and unable to provide the latest version update. Therefore, please update Multi Cloner."
