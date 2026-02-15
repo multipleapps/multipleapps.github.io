@@ -1,9 +1,9 @@
 {
     "code":0,
     "data":{
-        "type":0,
+        "type":1,
         "method":4,
-        "schema":"https://multipleapps.github.io/",
+        "schema":"com.multiaccounts.cloneapps",
         "minVerCode":10016,
         "content":"Due to policy reasons, Multiple Apps has been removed by Google Play, and unable to provide the latest version update. Therefore, please install Multi Cloner. If you want backup your data, please join https://t.me/multipleappsdev to get a solution."
     }
